@@ -18,4 +18,3 @@ KT Cloud TECH UP 2기 생성형 AI 과정을 수료했고(2026.03 ~ 10), 통합 
 - **AI·데이터:** Python, PyTorch, FastAPI, LLM, RAG, Ollama, pytest
 - **웹·앱:** TypeScript/JavaScript, Node.js(Express), MySQL, PostgreSQL, Flutter, React Native(Expo)
 - **배포·협업:** Docker, Nginx, PM2, Jenkins, Git/GitHub
-- **AI 개발 도구:** Claude Code, Codex CLI, Figma MCP — 세 도구를 묶은 멀티 에이전트 오케스트레이터를 직접 만들어 사용
